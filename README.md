@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tayyab841
 - 👀 I’m interested in Web Engineering
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning to be an efficient problem solver
 - 📫 How to reach me : tayyab841@gmail.com
 
 <!---
